@@ -41,3 +41,4 @@ function(dpcpp_test test_file)
 endfunction()
 
 dpcpp_test("test/dpcpp/creational/abstract_factory.cpp")
+dpcpp_test("test/dpcpp/creational/builder.cpp")
