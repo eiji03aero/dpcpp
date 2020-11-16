@@ -143,6 +143,6 @@ int main() {
 } /* namespace creational */
 } /* namespace dpcpp */
 
-TEST(FactoryMethodTest, Test1) {
+TEST(PrototypeTest, Test1) {
   dpcpp::creational::main();
 }
