@@ -75,6 +75,6 @@ int main() {
 } /* namespace structural */
 } /* namespace dpcpp */
 
-TEST(FactoryMethodTest, Test1) {
+TEST(AdapterTest, Test1) {
   dpcpp::structural::main();
 }
